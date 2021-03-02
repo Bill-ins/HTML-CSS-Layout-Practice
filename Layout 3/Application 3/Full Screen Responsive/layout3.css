@@ -1,0 +1,43 @@
+.headerBox {
+    height: 200px;
+    background-color: coral;
+    margin-bottom: 30px;
+}
+
+.box1 {
+    height: 250px;
+    margin-bottom: 30px;
+}
+
+.yellow {
+    height: 250px;
+    width: 49%;
+    background-color: yellow;
+    float: left;
+}
+
+.black {
+    height: 250px;
+    width: 49%;
+    background-color: black;
+    float: right;
+}
+
+.box2 {
+    height: 250px;
+    margin-bottom: 30px;
+}
+
+.red {
+    height: 250px;
+    width: 49%;
+    background-color: red;
+    float: left;
+}
+
+.blue {
+    height: 250px;
+    width: 49%;
+    background-color: blue;
+    float: right;
+}
