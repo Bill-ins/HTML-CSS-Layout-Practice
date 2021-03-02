@@ -1,0 +1,36 @@
+.container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.headerBox {
+    height: 200;
+    background-color: coral;
+    margin-bottom: 30px
+}
+
+.leftBoxes {
+    padding: 0px;
+    width: 49%;
+    float: left;
+    margin-bottom: 30px;
+}
+
+.leftBox1 {
+    height: 250px;
+    background-color: yellow;
+    margin-bottom: 30px;
+}
+
+.leftBox2 {
+    height: 250px;
+    background-color: yellow;
+}
+
+.rightBox {
+    height: 530px;
+    width: 49%;
+    background-color: cyan;
+    margin-bottom: 30px;
+    float: right;
+}
