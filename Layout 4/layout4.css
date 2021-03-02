@@ -1,0 +1,134 @@
+.container {
+    width: 1000px;
+    height: 835px;
+    margin-bottom: 100px;
+    margin: 0 auto;
+}
+
+/* Left Box Coding Here */
+
+.leftBoxes {
+    height: 835px;
+    width: 570px;
+    float: left;
+}
+
+.biggestBox {
+    height: 350px;
+    background-color: rgb(241, 92, 81);
+    margin-bottom: 70px;
+}
+
+.yellow {
+    width: 330px;
+    height: 170px;
+    background-color: yellow;
+    float: left;
+    margin-bottom: 70px
+}
+
+.green {
+    width: 180;
+    height: 170px;
+    background-color: rgb(23, 252, 0);
+    float: right;
+    margin-bottom: 70px
+}
+
+.black1 {
+    height: 170px;
+    width: 130px;
+    background-color: black;
+    float: left;
+    margin-bottom: 0px;
+}
+
+.black2 {
+    height: 170px;
+    width: 130px;
+    background-color: black;
+    float: left;
+    margin-left: 16px;
+    margin-bottom: 0px;
+}
+
+.black3 {
+    height: 170px;
+    width: 130px;
+    background-color: black;
+    float: left;
+    margin-left: 16px;
+    margin-bottom: 0px;
+}
+
+.black4 {
+    height: 170px;
+    width: 130px;
+    background-color: black;
+    float: left;
+    margin-left: 16px;
+    margin-bottom: 0px;
+}
+
+/* Right Box Coding Here */
+
+.rightBoxes {
+    height: 835px;
+    width: 380px;
+    float: right;
+}
+
+.brown {
+    height: 385px;
+    width: 95px;
+    background-color: rgb(80, 41, 13);
+    float: left;
+    margin-right: 47px;
+}
+
+.darkgreen {
+    height: 385px;
+    width: 95px;
+    background-color: rgb(3, 61, 34);
+    float: left;
+    margin-right: 47px;
+}
+
+.grey {
+    height: 385px;
+    width: 95px;
+    background-color: grey;
+    float: left;
+}
+
+.purple {
+    clear: left;
+    margin-top: 35px;
+    background-color: purple;
+    width: 180px;
+    height: 111px;
+    float: left;
+}
+
+.pink {
+    margin-top: 35px;
+    width: 180px;
+    height: 111px;
+    background-color: palevioletred;
+    float: right;
+    margin-bottom: 40px;
+}
+
+.grassGreen {
+    clear: right;
+    background-color: rgb(107, 198, 61);
+    width: 380px;
+    height: 111px;
+    margin-bottom: 40px;
+}
+
+.blue {
+    background-color: rgb(73, 0, 243);
+    width: 380px;
+    height: 111px;
+}
