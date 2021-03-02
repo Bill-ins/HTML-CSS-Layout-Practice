@@ -1,0 +1,32 @@
+.container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.heading {
+     height: 200px;
+     background-color: rgb(247, 167, 114);
+     margin-bottom: 30px
+} 
+
+.leftBox {
+    height: 250px;
+    width: 48%;
+    float: left;
+    background-color: yellow;
+    margin-bottom: 30px
+}
+
+.rightBox {
+    height: 250px;
+    width: 48%;
+    float: right;
+    background-color: red;
+    margin-bottom: 30px
+}
+
+.footer {
+    height: 200px;
+    background-color: rgb(247, 47, 203);
+    clear: both;
+}
